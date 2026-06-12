@@ -1,0 +1,2 @@
+install clerk, shadcn, and themes
+rate limiting , ddos protection
